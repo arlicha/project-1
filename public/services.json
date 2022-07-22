@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Doel laptop  ",
+        "supplier": "rayisha ",
+        "price": "270",
+        "order": "15",
+        "quantity": "250",
+        "description": "Cyber monday sale composition mock-up Free Psd ",
+        "img": "https://img.freepik.com/free-psd/cyber-monday-sale-composition-mock-up_23-2148659811.jpg?size=626&ext=jpg&uid=R74382761&ga=GA1.2.305748901.1649251700 "
+    },
+    {
+        "name": " HP laptop  ",
+        "supplier": "riya ",
+        "price": "320",
+        "order": "14",
+        "quantity": "240",
+        "description": " Twilight scene of device mockup Free Psd",
+        "img": "https://img.freepik.com/free-psd/twilight-scene-device-mockup_23-2149131306.jpg?t=st=1656549340~exp=1656549940~hmac=efa13bf406924539c4f6701e7e64c764c92062a6690734b49bc1f535d00ee7c8&w=826 "
+    },
+    {
+        "name": " Asus laptop",
+        "supplier": "ridiya ",
+        "price": "150",
+        "order": "70",
+        "quantity": "170",
+        "description": "Artist room decorated with responsive website mockup Free Psd",
+        "img": " https://img.freepik.com/free-psd/artist-room-decorated-with-responsive-website-mockup_23-2148834381.jpg?t=st=1656564676~exp=1656565276~hmac=beb53558db7f9cd3ee3901602be58dd141c4d94b66511ae887164f5d407ffbbc&w=826"
+    },
+    {
+        "name": " DCL laptop ",
+        "supplier": "ridi ",
+        "price": "180",
+        "order": "26",
+        "quantity": "190",
+        "description": "Isometric responsive devices screen mockup Premium Psd  ",
+        "img": "https://img.freepik.com/free-psd/isometric-responsive-devices-screen-mockup_225210-356.jpg?w=740 "
+    },
+    {
+        "name": " Dell laptop  ",
+        "supplier": " licha ",
+        "price": "100",
+        "order": "29",
+        "quantity": "255",
+        "description": "Laptop screen website presentation mockup isometric view isolated Premium Psd ",
+        "img": "https://img.freepik.com/free-psd/laptop-screen-website-presentation-mockup-isometric-view-isolated_225210-582.jpg?w=740 "
+    },
+    {
+        "name": "Asus laptop ",
+        "supplier": " Mouna ",
+        "price": "300",
+        "order": "33",
+        "quantity": "245",
+        "description": "Smartphone app screen device mockup presentation on laptop keyboard business office concept flatlay Premium Psd",
+        "img": "https://img.freepik.com/free-psd/smartphone-app-screen-device-mockup-presentation-laptop-keyboard-business-office-concept-flatlay_225210-822.jpg?w=740"
+    }
+]
